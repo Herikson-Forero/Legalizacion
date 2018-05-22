@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Inf. Linea de Negocio" section_id="5f03f918db161300624d5385ca961901" sys_domain="global" table="x_227338_lagalizac_hoja_de_ruta_contratos" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_comercial</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_id>795731d8db161300624d5385ca961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Inf. Linea de Negocio" display_value="Inf. Linea de Negocio" name="x_227338_lagalizac_hoja_de_ruta_contratos" sys_domain="global" view="Default view">5f03f918db161300624d5385ca961901</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_id>f95731d8db161300624d5385ca961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Inf. Linea de Negocio" display_value="Inf. Linea de Negocio" name="x_227338_lagalizac_hoja_de_ruta_contratos" sys_domain="global" view="Default view">5f03f918db161300624d5385ca961901</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_analistav</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_id>7d5731d8db161300624d5385ca961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Inf. Linea de Negocio" display_value="Inf. Linea de Negocio" name="x_227338_lagalizac_hoja_de_ruta_contratos" sys_domain="global" view="Default view">5f03f918db161300624d5385ca961901</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_id>fd5731d8db161300624d5385ca961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Inf. Linea de Negocio" display_value="Inf. Linea de Negocio" name="x_227338_lagalizac_hoja_de_ruta_contratos" sys_domain="global" view="Default view">5f03f918db161300624d5385ca961901</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_lineanegocio</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_id>715731d8db161300624d5385ca961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Inf. Linea de Negocio" display_value="Inf. Linea de Negocio" name="x_227338_lagalizac_hoja_de_ruta_contratos" sys_domain="global" view="Default view">5f03f918db161300624d5385ca961901</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_producto</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_id>f15731d8db161300624d5385ca961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Inf. Linea de Negocio" display_value="Inf. Linea de Negocio" name="x_227338_lagalizac_hoja_de_ruta_contratos" sys_domain="global" view="Default view">5f03f918db161300624d5385ca961901</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Inf. Linea de Negocio</caption>
+            <header>false</header>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 21:47:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5f03f918db161300624d5385ca961901</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Inf. Linea de Negocio</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="lagalizacion" source="x_227338_lagalizac">73fc0594db921300624d5385ca9619fb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="lagalizacion">73fc0594db921300624d5385ca9619fb</sys_scope>
+            <sys_update_name>sys_ui_section_5f03f918db161300624d5385ca961901</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 21:47:24</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

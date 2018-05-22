@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_tipo_documen" table="x_227338_lagalizac_hoja_de_ruta_contratos" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_tipo_documen</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Contrato</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 19:27:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88235914dbd21300624d5385ca961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 19:27:55</sys_updated_on>
+            <value>contrato</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_tipo_documen</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Oferta Mercantil</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 19:27:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>08235914dbd21300624d5385ca961968</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 19:27:55</sys_updated_on>
+            <value>om</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_tipo_documen</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Orden C/S</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 19:27:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0235914dbd21300624d5385ca96196a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 19:27:55</sys_updated_on>
+            <value>orden</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_tipo_documen</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Otrosi</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 19:27:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c235914dbd21300624d5385ca96196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 19:27:55</sys_updated_on>
+            <value>otrosi</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_tipo_documen</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Acuerdo Confidencialidad</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 19:27:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48235914dbd21300624d5385ca96196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 19:27:55</sys_updated_on>
+            <value>ac</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_tipo_documen</element>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 19:27:55</sys_created_on>
+            <sys_id>c0235914dbd21300624d5385ca961968</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_tipo_documen</sys_name>
+            <sys_package display_value="lagalizacion" source="x_227338_lagalizac">73fc0594db921300624d5385ca9619fb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="lagalizacion">73fc0594db921300624d5385ca9619fb</sys_scope>
+            <sys_update_name>sys_choice_x_227338_lagalizac_hoja_de_ruta_contratos_u_tipo_documen</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 19:27:55</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

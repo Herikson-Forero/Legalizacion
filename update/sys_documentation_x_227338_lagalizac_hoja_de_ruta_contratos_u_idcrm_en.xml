@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_idcrm" label="ID CRM" language="en" table="x_227338_lagalizac_hoja_de_ruta_contratos">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_idcrm</element>
+            <help/>
+            <hint/>
+            <label>ID CRM</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <plural>ID CRMs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 20:54:27</sys_created_on>
+            <sys_id>57e6a550db161300624d5385ca961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ID CRM</sys_name>
+            <sys_package display_value="lagalizacion" source="x_227338_lagalizac">73fc0594db921300624d5385ca9619fb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="lagalizacion">73fc0594db921300624d5385ca9619fb</sys_scope>
+            <sys_update_name>sys_documentation_x_227338_lagalizac_hoja_de_ruta_contratos_u_idcrm_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 20:54:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

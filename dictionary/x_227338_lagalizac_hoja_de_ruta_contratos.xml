@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Hoja de Ruta - Contratos" max_length="40" name="x_227338_lagalizac_hoja_de_ruta_contratos" type="collection">
+        <element label="Analista de Ventas" max_length="32" name="u_analistav" reference="x_227338_lagalizac_hoja_de_ruta_contratos" type="reference"/>
+        <element label="Vigencia Sujeta a Acta de inicio" max_length="40" name="u_boolean_1" type="boolean"/>
+        <element dependent="u_cliente_1" dependent_on_field="u_cliente_1" label="Cliente del Contrato" mandatory="true" max_length="32" name="u_cliente_1" reference="samp_client_access" type="reference" use_dependent_field="true"/>
+        <element label="Gerente Cuenta" max_length="32" name="u_comercial" reference="cmdb_ci_appl_dot_net" type="reference"/>
+        <element label="Fecha Final" max_length="40" name="u_fechafinall" type="glide_date"/>
+        <element label="Fecha Inicio" max_length="40" name="u_fechaini" type="glide_date"/>
+        <element label="Fecha Firma del Documento" max_length="40" name="u_glide_date_5" type="glide_date"/>
+        <element label="ID CRM" mandatory="true" max_length="40" name="u_idcrm" type="integer"/>
+        <element label="Incremento IPC" max_length="40" name="u_incrementoipc" type="boolean"/>
+        <element label="I.V.A Incluido" max_length="40" name="u_ivaincluido" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Linea de Negocio" mandatory="true" max_length="40" name="u_lineanegocio" type="string">
+            <choice>
+                <element label="Plataforma HW" sequence="0" value="plataforma hw"/>
+                <element label="Plataforma SW" sequence="1" value="plataforma sw"/>
+                <element label="Servicios TI" sequence="2" value="servicios ti"/>
+                <element label="Aplicaciones" sequence="3" value="aplicaciones"/>
+                <element label="SAP" sequence="4" value="sap"/>
+                <element label="Consultoria" sequence="5" value="consultoria"/>
+            </choice>
+        </element>
+        <element label="Margen Global (%)" mandatory="true" max_length="40" name="u_margeng" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="usd" label="Tipo de Moneda" max_length="40" name="u_moneda" type="string">
+            <choice>
+                <element label="USD" sequence="0" value="usd"/>
+                <element label="Pesos" sequence="1" value="pesos"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Titulo Documento" mandatory="true" max_length="300" name="u_numerodoc" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Producto Documento" mandatory="true" max_length="40" name="u_producto" type="string">
+            <choice>
+                <element label="Servidores" sequence="0" value="servidores"/>
+                <element label="Storage y perifericos" sequence="1" value="storage y perifericos"/>
+                <element label="PCs y Printers" sequence="2" value="pcs y printers"/>
+                <element label="Comunicación y redes" sequence="3" value="comunicación y redes"/>
+                <element label="Software  Microsoft" sequence="4" value="software  microsoft"/>
+                <element label="Software McAfee" sequence="5" value="software mcafee"/>
+                <element label="Software Otros" sequence="6" value="software otros"/>
+                <element label="Mesa de Ayuda" sequence="7" value="mesa de ayuda"/>
+                <element label="Fiel Services" sequence="8" value="fiel services"/>
+                <element label="Data center cloud" sequence="9" value="data center cloud"/>
+                <element label="Integración y Outsourcing" sequence="10" value="integración y outsourcing"/>
+                <element label="MDS" sequence="11" value="mds"/>
+                <element label="Out. Impresión" sequence="12" value="out. impresión"/>
+                <element label="Salud EPS" sequence="13" value="salud eps"/>
+                <element label="Salud IPS" sequence="14" value="salud ips"/>
+                <element label="Financiero" sequence="15" value="financiero"/>
+                <element label="Microstrategy" sequence="16" value="microstrategy"/>
+                <element label="SAP B1" sequence="17" value="sap b1"/>
+                <element label="SAP Consultoria" sequence="18" value="sap consultoria"/>
+                <element label="SAP Servicios" sequence="19" value="sap servicios"/>
+                <element label="Consultoria" sequence="20" value="consultoria"/>
+            </choice>
+        </element>
+        <element label="Riesgo del Negocio" mandatory="true" max_length="40" name="u_riesgon" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tipo de documento" max_length="40" name="u_tipo_documen" type="string">
+            <choice>
+                <element label="Contrato" sequence="0" value="contrato"/>
+                <element label="Oferta Mercantil" sequence="1" value="om"/>
+                <element label="Orden C/S" sequence="2" value="orden"/>
+                <element label="Otrosi" sequence="3" value="otrosi"/>
+                <element label="Acuerdo Confidencialidad" sequence="4" value="ac"/>
+            </choice>
+        </element>
+        <element label="Valor Fijo Mens" max_length="15" name="u_valorfijo" type="decimal"/>
+        <element label="Valor Total" mandatory="true" max_length="15" name="u_valortotal" type="decimal"/>
+        <element label="Valor Variable Mens" max_length="15" name="u_variablevalor" type="decimal"/>
+        <element label="Vigencia en meses" mandatory="true" max_length="40" name="u_vigencia" type="integer"/>
+    </element>
+</database>

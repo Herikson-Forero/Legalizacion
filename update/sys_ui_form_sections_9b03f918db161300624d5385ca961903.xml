@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="9b03f918db161300624d5385ca961903" sys_domain="global" table="x_227338_lagalizac_hoja_de_ruta_contratos" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 21:47:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1303f918db161300624d5385ca961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_227338_lagalizac_hoja_de_ruta_contratos" name="x_227338_lagalizac_hoja_de_ruta_contratos" sys_domain="global" view="Default view">9b03f918db161300624d5385ca961903</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_227338_lagalizac_hoja_de_ruta_contratos" sys_domain="global" view="Default view">45901d94db921300624d5385ca9619bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 21:47:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:14:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>df29711cdb161300624d5385ca96192f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_227338_lagalizac_hoja_de_ruta_contratos" name="x_227338_lagalizac_hoja_de_ruta_contratos" sys_domain="global" view="Default view">9b03f918db161300624d5385ca961903</sys_ui_form>
+            <sys_ui_section caption="Información Especifica" display_value="Información Especifica" name="x_227338_lagalizac_hoja_de_ruta_contratos" sys_domain="global" view="Default view">1329311cdb161300624d5385ca96191b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:14:11</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 21:47:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f03f918db161300624d5385ca961906</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_227338_lagalizac_hoja_de_ruta_contratos" name="x_227338_lagalizac_hoja_de_ruta_contratos" sys_domain="global" view="Default view">9b03f918db161300624d5385ca961903</sys_ui_form>
+            <sys_ui_section caption="Inf. Linea de Negocio" display_value="Inf. Linea de Negocio" name="x_227338_lagalizac_hoja_de_ruta_contratos" sys_domain="global" view="Default view">5f03f918db161300624d5385ca961901</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:14:11</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 21:47:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1303f918db161300624d5385ca96190a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_227338_lagalizac_hoja_de_ruta_contratos" name="x_227338_lagalizac_hoja_de_ruta_contratos" sys_domain="global" view="Default view">9b03f918db161300624d5385ca961903</sys_ui_form>
+            <sys_ui_section caption="Garantías Contratadas" display_value="Garantías Contratadas" name="x_227338_lagalizac_hoja_de_ruta_contratos" sys_domain="global" view="Default view">5703f918db161300624d5385ca961902</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:14:11</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 21:47:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1b03f918db161300624d5385ca96190d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_227338_lagalizac_hoja_de_ruta_contratos" name="x_227338_lagalizac_hoja_de_ruta_contratos" sys_domain="global" view="Default view">9b03f918db161300624d5385ca961903</sys_ui_form>
+            <sys_ui_section caption="Aprobaciones Responsables" display_value="Aprobaciones Responsables" name="x_227338_lagalizac_hoja_de_ruta_contratos" sys_domain="global" view="Default view">5f03f918db161300624d5385ca961902</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:14:11</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 21:47:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b03f918db161300624d5385ca961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_227338_lagalizac_hoja_de_ruta_contratos</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="lagalizacion" source="x_227338_lagalizac">73fc0594db921300624d5385ca9619fb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="lagalizacion">73fc0594db921300624d5385ca9619fb</sys_scope>
+            <sys_update_name>sys_ui_form_sections_9b03f918db161300624d5385ca961903</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 21:47:24</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

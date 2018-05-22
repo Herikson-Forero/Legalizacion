@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Hoja de Ruta - Contratos">004f4590dbd21300624d5385ca961973</application>
+        <filter/>
+        <name>Hoja de Ruta - Contratos</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_227338_lagalizac.hoja_de_ruta_contratos_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-21 19:11:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8c4f4590dbd21300624d5385ca961974</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hoja de Ruta - Contratos</sys_name>
+        <sys_package display_value="lagalizacion" source="x_227338_lagalizac">73fc0594db921300624d5385ca9619fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="lagalizacion">73fc0594db921300624d5385ca9619fb</sys_scope>
+        <sys_update_name>sys_ui_module_8c4f4590dbd21300624d5385ca961974</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-21 19:11:00</sys_updated_on>
+        <table>x_227338_lagalizac_hoja_de_ruta_contratos</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

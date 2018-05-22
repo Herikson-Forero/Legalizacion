@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_producto" table="x_227338_lagalizac_hoja_de_ruta_contratos" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_producto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Servidores</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>315731d8db161300624d5385ca961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <value>servidores</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_producto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Storage y perifericos</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bd5731d8db161300624d5385ca96196a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <value>storage y perifericos</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_producto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PCs y Printers</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>795731d8db161300624d5385ca96196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <value>pcs y printers</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_producto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Comunicación y redes</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>355731d8db161300624d5385ca96196e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <value>comunicación y redes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_producto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Software  Microsoft</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd5731d8db161300624d5385ca96196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <value>software  microsoft</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_producto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Software McAfee</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b95731d8db161300624d5385ca961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <value>software mcafee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_producto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Software Otros</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>755731d8db161300624d5385ca961973</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <value>software otros</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_producto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mesa de Ayuda</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>315731d8db161300624d5385ca961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <value>mesa de ayuda</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_producto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fiel Services</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f95731d8db161300624d5385ca961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <value>fiel services</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_producto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Data center cloud</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>9</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b55731d8db161300624d5385ca961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <value>data center cloud</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_producto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Integración y Outsourcing</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>715731d8db161300624d5385ca96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <value>integración y outsourcing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_producto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MDS</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>11</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d5731d8db161300624d5385ca96197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <value>mds</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_producto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Out. Impresión</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>12</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f55731d8db161300624d5385ca96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <value>out. impresión</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_producto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Salud EPS</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>13</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b15731d8db161300624d5385ca96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <value>salud eps</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_producto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Salud IPS</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>14</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7d5731d8db161300624d5385ca961980</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <value>salud ips</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_producto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Financiero</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>15</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>395731d8db161300624d5385ca961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <value>financiero</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_producto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Microstrategy</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>16</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f15731d8db161300624d5385ca961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <value>microstrategy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_producto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SAP B1</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>17</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bd5731d8db161300624d5385ca961985</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <value>sap b1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_producto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SAP Consultoria</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>18</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>795731d8db161300624d5385ca961987</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <value>sap consultoria</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_producto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SAP Servicios</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>19</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>355731d8db161300624d5385ca961989</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <value>sap servicios</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_producto</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Consultoria</label>
+            <language>en</language>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sequence>20</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd5731d8db161300624d5385ca96198a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+            <value>consultoria</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_producto</element>
+            <name>x_227338_lagalizac_hoja_de_ruta_contratos</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 22:06:09</sys_created_on>
+            <sys_id>795731d8db161300624d5385ca96196a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_producto</sys_name>
+            <sys_package display_value="lagalizacion" source="x_227338_lagalizac">73fc0594db921300624d5385ca9619fb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="lagalizacion">73fc0594db921300624d5385ca9619fb</sys_scope>
+            <sys_update_name>sys_choice_x_227338_lagalizac_hoja_de_ruta_contratos_u_producto</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 22:06:09</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
